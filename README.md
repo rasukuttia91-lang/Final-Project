@@ -106,14 +106,5 @@ Project Structure
 └── results/
 Conclusion
 This project demonstrates how attention-enhanced LSTM networks can significantly improve multivariate time series forecasting performance. The synthetic dataset enables controlled experimentation, while attention visualizations provide interpretability, making the model both accurate and explainable.
-Author
-RASUKUTTI ANANDHAN
 
----
-
-### This README is:
-- Academically correct  
-- Matches your code 100%  
-- Suitable for GitHub, college submission, and portfolio  
-- Looks **professional to recruiters and professors**
 
